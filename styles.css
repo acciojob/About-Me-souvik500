@@ -1,1 +1,8 @@
 
+
+.percentage-fill {
+  background-color: #4CAF50;
+  height: 100%;
+  width: 0;
+  transition: width 0.5s;
+}
